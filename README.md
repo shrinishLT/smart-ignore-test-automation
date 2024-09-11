@@ -12,7 +12,7 @@
 
 3. **Create API type project on smartui and copy curl and paste in main.py at top in the CURL variable** 
 
-4. **Change the start, end, buildname, and type as per requirememts in main.py variables**
+4. **Change the start, end, buildname, and type as per your choice in main.py variables**
 
 5. **Run the script**
  
