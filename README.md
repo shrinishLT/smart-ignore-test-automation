@@ -1,4 +1,4 @@
-# smart-igonre-testing-automation
+# smart-ignore-testing-automation
 
 1. **Create a new virtual env and install requirements**
 
